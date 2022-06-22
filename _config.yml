@@ -6,25 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Sea Of Thieves Boat Shop
 
 # Your name to show in the footer
-author: Some Person
+author: 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Clothing Shop: "https://berkeso1.github.io/intro-cs/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "f7517757-00ec-41a3-b41a-d6c28fee4829.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
