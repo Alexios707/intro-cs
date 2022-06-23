@@ -2,9 +2,11 @@
 layout: post
 title: 12 Years a Quad
 subtitle: Blog by Scott W. Fedor
-cover-img:(https://m.media-amazon.com/images/I/41u3nXi2hFL._AC_SY780_.jpg)
+---
+cover-img: (https://m.media-amazon.com/images/I/41u3nXi2hFL._AC_SY780_.jpg)
 thumbnail-img:(https://m.media-amazon.com/images/I/41u3nXi2hFL._AC_SY780_.jpg)
 share-img:(https://m.media-amazon.com/images/I/41u3nXi2hFL._AC_SY780_.jpg)
+---
 tags: [books, test]
 ---
 
@@ -30,4 +32,4 @@ Wishing everyone a healthy and safe Fourth of July! Forever grateful for the con
 
 Stand Strong!
 
-Scott
+Scott W. Fedor
