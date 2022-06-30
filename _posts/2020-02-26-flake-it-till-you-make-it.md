@@ -1,17 +1,30 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: 12 Years a Quad
+subtitle: Blog by Scott W. Fedor
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Today marks the culmination of my 12th year as a quadriplegic. On an occasion like this, it would be great to offer some profound words of enlightenment, but there’s nothing to say that hasn’t been said at some point in the past. Perhaps just a reminder that living with paralysis is a continuous education.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+The other day I found myself outside on my patio, basking in the warmth of the sun (something I have come to appreciate more than I ever thought possible). Listening to the radio as the sun warmed my face, I was aware of how fortunate I was to have this moment. No sooner had that appreciation been realized than a gust of wind seemingly came out of nowhere. The breeze, while a comfortable respite amidst the sun’s radiance, knocked over my tomato plant with no regard for my situation.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+In that beautiful moment, I was reminded of how helpless I was. I watched as the soil spilled from the pot across the concrete. There was nothing I could do to remedy the situation. After a few moments of gazing upon my fallen shrub, I repositioned my wheelchair into the sunlight, closed my eyes, and resumed my appreciation of the sun’s warmth.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Moments like that encapsulate what these past 12 years have been like. At times, beautiful and wonderful, precious moments that instill gratitude and appreciation. And then without warning, there are moments of helplessness and despair, instances that deliver an instant buzzkill. It’s an unpredictable pendulum that I am constantly learning to navigate.
+
+We all deal with these pendulum swings throughout our lives. The important thing is that we continue to learn from every swing. I continue to learn every day. I learn what my limits are; I learn what my body’s idiosyncrasies mean; I learn how hard good help is to come by, and how appreciative I am for the fantastic help I do have.
+
+After 12 years of living with paralysis, I’m still not comfortable with it, but I continue to learn how to live with it.
+
+After 12 years of living with paralysis, I’m still grateful that I get to wake up every day – even when I have to deal with pendulum swings. It’s a lot better than the alternative.
+
+After 12 years of living with paralysis, I’m still humbled by the sacrifices my family makes, the support my friends offer, and the opportunities God bestows upon me.
+
+And after 12 years of living with paralysis, I’m still excited to celebrate Independence Day.
+
+Wishing everyone a healthy and safe Fourth of July! Forever grateful for the continued support!
+
+Stand Strong!
+
+Scott W. Fedor
