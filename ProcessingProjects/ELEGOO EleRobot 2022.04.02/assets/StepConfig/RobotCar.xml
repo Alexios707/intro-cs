@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Steps>
+  <step index="1" type="show">
+    <showTaget name="robotcar/xiaban-bufen/dianji4/dianji1" BeginX="-1.012852" BeginY="1.4" BeginZ="1.452603" />
+    <Part name="Motor" num="1" url="dianji"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="28.99999" RY="145" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="2" type="show">
+    <showTaget name="robotcar/xiaban-bufen/dianji4/dianjiluosi" BeginX="-3.12" BeginY="1.4" BeginZ="1.480215" />
+    <Part name="M3*30 Screw" num="2" bag="bag ①" url="M3_30" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="28.99999" RY="145" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="3" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/dianji4/dianjiluosi" BeginX="-3.12" BeginY="1.4" BeginZ="1.480215" X="-0.91" Y="1.4" Z="1.480215" tween="True" />
+    <Part name="M3*30 Screw" num="2" bag="bag ①" url="M3_30"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="28.99999" RY="145" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="4" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="26.99998" RY="207.9998" RZ="0" tween="True" layer="" />
+  </step>
+  <step index="5" type="show">
+    <showTaget name="robotcar/xiaban-bufen/dianji4/lvkuai" BeginX="0.9" BeginY="1.4" BeginZ="1.482406" />
+    <Part name="Aluminium Block" num="1" bag="bag ①" url="lvkuai"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="27.00132" RY="207.9535" RZ="0.0009141454" tween="False" layer="" />
+  </step>
+  <step index="6" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/dianji4/lvkuai" BeginX="0.9" BeginY="1.4" BeginZ="1.482406" X="-0.7109264" Y="1.4" Z="1.482406" tween="True" />
+    <Part name="Aluminium Block" num="1" bag="bag ①" url="lvkuai"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="27.00132" RY="207.9535" RZ="0.0009141454" tween="False" layer="" />
+  </step>
+  <step index="7" type="show">
+    <showTaget name="robotcar/xiaban-bufen/dianji4/dianjiluomu" BeginX="1" BeginY="1.4" BeginZ="1.480707" />
+    <Part name="M3 Nut" num="2" bag="bag ①" url="M3luomu"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="27.00132" RY="207.9535" RZ="0.0009141454" tween="False" layer="" />
+  </step>
+  <step index="8" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/dianji4/dianjiluomu" BeginX="1" BeginY="1.4" BeginZ="1.480707" X="-0.6147823" Y="1.4" Z="1.480707" tween="True" />
+    <Part name="M3 Nut" num="2" bag="bag ①" url="M3luomu"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="27.00132" RY="207.9535" RZ="0.0009141454" tween="False" layer="" />
+  </step>
+  <step index="9" type="line">
+    <LineTarget showLine="robotcar/xiaban-bufen/dianji4/dianji3" hidelIne="robotcar/xiaban-bufen/dianji4/dianji1/shili" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="27.00132" RY="207.9535" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="10" type="show">
+    <showTaget name="robotcar/xiaban-bufen/xiaban" BeginX="-0.01315727" BeginY="-0.5663302" BeginZ="0.01207819" />
+    <Part name="Bottom Plate" num="1" url="xiaban" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="27.00132" RY="207.9535" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="11" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/dianji4" BeginX="0.04346011" BeginY="0.05401936" BeginZ="0.04685429" X="0.04346011" Y="-1.61" Z="0.04685429" tween="True" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="27.00132" RY="207.9535" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="12" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="333.4013" RY="270.354" RZ="9.548286E-07" tween="True" layer="" />
+  </step>
+  <step index="13" type="show">
+    <showTaget name="robotcar/xiaban-bufen/lvkuailuosi" BeginX="-0.0219781" BeginY="-2" BeginZ="-0.03487087" />
+    <Part name="M3*10 Screw" num="8" bag="bag ①" url="M3_10"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="333.4361" RY="270.3018" RZ="0.02354082" tween="False" layer="" />
+  </step>
+  <step index="14" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/lvkuailuosi" BeginX="-0.0219781" BeginY="-2" BeginZ="-0.03487087" X="-0.0219781" Y="-0.5394754" Z="-0.03487087" tween="True" />
+    <Part name="M3*10 Screw" num="8" bag="bag ①" url="M3_10"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="333.4361" RY="270.3018" RZ="0.02354082" tween="False" layer="" />
+  </step>
+  <step index="15" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43602" RY="203.3015" RZ="-2.204022E-07" tween="True" layer="" />
+  </step>
+  <step index="16" type="show">
+    <showTaget name="robotcar/xiaban-bufen/xunjiluosi" BeginX="-0.02421322" BeginY="1.32" BeginZ="2.372072" />
+    <Part name="M3*14  Screw" num="4" bag="bag ②" url="M3_14"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43602" RY="203.3015" RZ="-2.204022E-07" tween="False" layer="" />
+  </step>
+  <step index="17" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/xunjiluosi" BeginX="-0.02421322" BeginY="1.32" BeginZ="2.372072" X="-0.02421322" Y="-0.6476787" Z="2.372072" tween="True" />
+    <Part name="M3*14  Screw" num="4" bag="bag ②" url="M3_14"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43602" RY="203.3015" RZ="-2.204022E-07" tween="False" layer="" />
+  </step>
+  <step index="18" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="359.8354" RY="217.1015" RZ="3.335067E-09" tween="True" layer="" />
+  </step>
+  <step index="19" type="show">
+    <showTaget name="robotcar/xiaban-bufen/xunjigelizhu" BeginX="-0.02387591" BeginY="-1.57" BeginZ="2.37199" />
+    <Part name="Separation Pillar" num="4" bag="bag ②" url="gelizhu"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="359.8354" RY="217.1015" RZ="3.335067E-09" tween="False" layer="" />
+  </step>
+  <step index="20" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/xunjigelizhu" BeginX="-0.02387591" BeginY="-1.57" BeginZ="2.37199" X="-0.02387591" Y="-0.6645449" Z="2.37199" tween="True" />
+    <Part name="Separation Pillar" num="4" bag="bag ②" url="gelizhu"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="359.8354" RY="217.1015" RZ="3.335067E-09" tween="False" layer="" />
+  </step>
+  <step index="21" type="show">
+    <showTaget name="robotcar/xiaban-bufen/xunjimokuai" BeginX="-0.02292939" BeginY="-1.66" BeginZ="2.371834" />
+    <Part name="Line-tracking Module" num="1" url="xunjimokuai"/>
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="359.8354" RY="217.1015" RZ="3.335067E-09" tween="False" layer="" />
+  </step>
+  <step index="22" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/xunjimokuai" BeginX="-0.02292939" BeginY="-1.66" BeginZ="2.371834" X="-0.02292939" Y="-0.810176" Z="2.371834" tween="True" />
+    <Part name="Line-tracking Module" num="1" url="xunjimokuai" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="359.8354" RY="217.1015" RZ="3.335067E-09" tween="False" layer="" />
+  </step>
+  <step index="23" type="show">
+    <showTaget name="robotcar/xiaban-bufen/xunjiluomu" BeginX="-0.02400895" BeginY="-1.74" BeginZ="2.369446" />
+    <Part name="M3 Nut" num="4" bag="bag ②" url="M3luomu" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="359.8354" RY="217.1015" RZ="3.335067E-09" tween="False" layer="" />
+  </step>
+  <step index="24" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/xunjiluomu" BeginX="-0.02400895" BeginY="-1.74" BeginZ="2.369446" X="-0.02400895" Y="-0.7740266" Z="2.369446" tween="True" />
+    <Part name="M3 Nut" num="4" bag="bag ②" url="M3luomu" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="359.8354" RY="217.1015" RZ="3.335067E-09" tween="False" layer="" />
+  </step>
+  <step index="25" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="20.8358" RY="232.1015" RZ="0" tween="True" layer="" />
+  </step>
+  <step index="26" type="show">
+    <showTaget name="robotcar/xiaban-bufen/luosiyouxia" BeginX="1.363687" BeginY="-1.3" BeginZ="0.01361153" />
+    <Part name="M3*10 Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="20.8358" RY="232.1015" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="27" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/luosiyouxia" BeginX="1.363687" BeginY="-1.3" BeginZ="0.01361153" X="1.363687" Y="-0.5420991" Z="0.01361153" tween="True" />
+    <Part name="M3*10 Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="20.8358" RY="232.1015" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="28" type="show">
+    <showTaget name="robotcar/xiaban-bufen/youtongzhu" BeginX="1.366329" BeginY="1.64" BeginZ="0.01056956" />
+    <Part name="M3*40 Copper Pillar" num="3" bag="bag ⑥" url="M3_40tongzhu" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="20.8358" RY="232.1015" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="29" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/youtongzhu" BeginX="1.366329" BeginY="1.64" BeginZ="0.01056956" X="1.366329" Y="-0.00294891" Z="0.01056956" tween="True" />
+    <Part name="M3*40 Copper Pillar" num="3" bag="bag ⑥" url="M3_40tongzhu" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="20.8358" RY="232.1015" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="30" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43579" RY="137.1016" RZ="4.40804E-07" tween="True" layer="" />
+  </step>
+  <step index="31" type="show">
+    <showTaget name="robotcar/xiaban-bufen/luosizuoxia" BeginX="-1.38341" BeginY="-1.35" BeginZ="0.01171949" />
+    <Part name="M3*10  Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43579" RY="137.1016" RZ="4.40804E-07" tween="False" layer="" />
+  </step>
+  <step index="32" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/luosizuoxia" BeginX="-1.38341" BeginY="-1.35" BeginZ="0.01171949" X="-1.38341" Y="-0.5416973" Z="0.01171949" tween="True" />
+    <Part name="M3*10  Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43579" RY="137.1016" RZ="4.40804E-07" tween="False" layer="" />
+  </step>
+  <step index="33" type="show">
+    <showTaget name="robotcar/xiaban-bufen/zuotongzhu" BeginX="-1.383339" BeginY="2.17" BeginZ="0.01167173" />
+    <Part name="M3*40 Copper Pillar" num="3" bag="bag ⑥" url="M3_40tongzhu" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43579" RY="137.1016" RZ="4.40804E-07" tween="False" layer="" />
+  </step>
+  <step index="34" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/zuotongzhu" BeginX="-1.383339" BeginY="2.17" BeginZ="0.01167173" X="-1.383339" Y="-0.002534121" Z="0.01167173" tween="True" />
+    <Part name="M3*40 Copper Pillar" num="3" bag="bag ⑥" url="M3_40tongzhu" />
+    <Cam ViewTarget="robotcar/xiaban-bufen" RX="14.43579" RY="137.1016" RZ="4.40804E-07" tween="False" layer="" />
+  </step>
+  <step index="35" type="show">
+    <showTaget name="robotcar/shangban-bufen/shangban" BeginX="0.01419529" BeginY="-0.2645176" BeginZ="-0.01792694" />
+    <Part name="Top Plate" num="1" url="shangban" />
+    <Cam ViewTarget="robotcar" RX="34.4358" RY="222.3016" RZ="1.035178E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="36" type="show">
+    <showTaget name="robotcar/shangban-bufen/UNOgelizhu" BeginX="0.3021688" BeginY="1.34" BeginZ="0.1" />
+    <Part name="Separation Pillar" num="3" bag="bag ②" url="gelizhu" />
+    <Cam ViewTarget="robotcar" RX="34.4358" RY="222.3016" RZ="-2.070356E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="37" type="move">
+    <moveTaget name="robotcar/shangban-bufen/UNOgelizhu" BeginX="0.3021688" BeginY="1.34" BeginZ="0.1" X="0.3021688" Y="-0.169273" Z="0.1" tween="True" />
+    <Part name="Separation Pillar" num="3" bag="bag ②" url="gelizhu" />
+    <Cam ViewTarget="robotcar" RX="34.4358" RY="222.3016" RZ="-2.070356E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="38" type="show">
+    <showTaget name="robotcar/shangban-bufen/UNO" BeginX="0.09118786" BeginY="1.97" BeginZ="0.2571415" />
+    <Part name="UNO" num="1" url="UNO" />
+    <Cam ViewTarget="robotcar" RX="34.4358" RY="222.3016" RZ="-2.070356E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="39" type="move">
+    <moveTaget name="robotcar/shangban-bufen/UNO" BeginX="0.09118786" BeginY="1.97" BeginZ="0.2571415" X="0.09118786" Y="0.02506822" Z="0.2571415" tween="True" />
+    <Part name="UNO" num="1" url="UNO" />
+    <Cam ViewTarget="robotcar" RX="34.4358" RY="222.3016" RZ="-2.070356E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="40" type="show">
+    <showTaget name="robotcar/shangban-bufen/UNOluosi" BeginX="0.302729" BeginY="1.64" BeginZ="0.1" />
+    <Part name="M3*14 Screw" num="3" bag="bag ②" url="M3_14" />
+    <Cam ViewTarget="robotcar" RX="34.4358" RY="222.3016" RZ="-2.070356E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="41" type="move">
+    <moveTaget name="robotcar/shangban-bufen/UNOluosi" BeginX="0.302729" BeginY="1.64" BeginZ="0.06666529" X="0.302729" Y="-0.2276153" Z="0.1" tween="True" />
+    <Part name="M3*14 Screw" num="3" bag="bag ②" url="M3_14" />
+    <Cam ViewTarget="robotcar" RX="34.4358" RY="222.3016" RZ="-2.070356E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="42" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="335.6357" RY="245.3013" RZ="-2.811729E-06" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="43" type="show">
+    <showTaget name="robotcar/shangban-bufen/UNOluomu" BeginX="0.3014538" BeginY="-1.78" BeginZ="0.1" />
+    <Part name="M3 Nut" num="3" bag="bag ②" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="335.6357" RY="245.3013" RZ="-2.811729E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="44" type="move">
+    <moveTaget name="robotcar/shangban-bufen/UNOluomu" BeginX="0.3014538" BeginY="-1.78" BeginZ="0.1" X="0.3014538" Y="-0.3472345" Z="0.1" tween="True" />
+    <Part name="M3 Nut" num="3" bag="bag ②" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="335.6357" RY="245.3013" RZ="-2.811729E-06" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="45" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="46" type="show">
+    <showTaget name="robotcar/shangban-bufen/kuozhanban-GY/kuozhanban" BeginX="0.1002113" BeginY="1.84" BeginZ="0.1005548" />
+    <Part name="IO Expansion Board" num="1" url="kuozhanban" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="47" type="show">
+    <showTaget name="robotcar/shangban-bufen/kuozhanban-GY/M3*5xia" BeginX="0.8908126" BeginY="1.29" BeginZ="-0.3798121" />
+    <Part name="M3*5 Countersunk Screw" num="1" bag="bag ③" url="M3_5" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="48" type="move">
+    <moveTaget name="robotcar/shangban-bufen/kuozhanban-GY/M3*5xia" BeginX="0.8908126" BeginY="1.29" BeginZ="-0.3798121" X="0.8908126" Y="1.86" Z="-0.3798121" tween="True" />
+    <Part name="M3*5 Countersunk Screw" num="1" bag="bag ③" url="M3_5" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="49" type="show">
+    <showTaget name="robotcar/shangban-bufen/kuozhanban-GY/M3*11tongzhu" BeginX="0.889575" BeginY="2.7" BeginZ="-0.3797907" />
+    <Part name="M3*11 Copper Pillar" num="1" bag="bag ③" url="M3_11tongzhu" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="50" type="move">
+    <moveTaget name="robotcar/shangban-bufen/kuozhanban-GY/M3*11tongzhu" BeginX="0.889575" BeginY="2.7" BeginZ="-0.3797907" X="0.889575" Y="2" Z="-0.3797907" tween="True" />
+    <Part name="M3*11 Copper Pillar" num="1" bag="bag ③" url="M3_11tongzhu" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="51" type="show">
+    <showTaget name="robotcar/shangban-bufen/kuozhanban-GY/GY" BeginX="0.7555084" BeginY="2.79" BeginZ="-0.1789757" />
+    <Part name="GY-521 Module" num="1" url="GY" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="52" type="move">
+    <moveTaget name="robotcar/shangban-bufen/kuozhanban-GY/GY" BeginX="0.7555084" BeginY="2.79" BeginZ="-0.1789757" X="0.7555084" Y="2.08" Z="-0.1789757" tween="True" />
+    <Part name="GY-521 Module" num="1" url="GY" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="53" type="show">
+    <showTaget name="robotcar/shangban-bufen/kuozhanban-GY/M3*5shang" BeginX="0.9001808" BeginY="2.8" BeginZ="-0.3798121" />
+    <Part name="M3*5 Countersunk Screw" num="1" bag="bag ③" url="M3_5" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="54" type="move">
+    <moveTaget name="robotcar/shangban-bufen/kuozhanban-GY/M3*5shang" BeginX="0.9001808" BeginY="2.8" BeginZ="-0.3798121" X="0.9001808" Y="2.14" Z="-0.3798121" tween="True" />
+    <Part name="M3*5 Countersunk Screw" num="1" bag="bag ③" url="M3_5" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="55" type="move">
+    <moveTaget name="robotcar/shangban-bufen/kuozhanban-GY" BeginX="0.08134627" BeginY="0.28" BeginZ="0.155" X="0.08134627" Y="-1.61" Z="0.155" tween="True" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="56" type="show">
+    <showTaget name="robotcar/shangban-bufen/dianchihe" BeginX="-0.1073097" BeginY="1.74" BeginZ="-1.524168" />
+    <Part name="Battery" num="1" url="dianchi" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="57" type="move">
+    <moveTaget name="robotcar/shangban-bufen/dianchihe" BeginX="-0.1073097" BeginY="1.74" BeginZ="-1.524168" X="-0.1073097" Y="0.2686023" Z="-1.524168" tween="True" />
+    <Part name="Battery" num="1" url="dianchi" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="58" type="show">
+    <showTaget name="robotcar/shangban-bufen/dianchiluosi" BeginX="0.003859252" BeginY="1.57" BeginZ="-2.081053" />
+    <Part name="M3*12 Screw" num="2" bag="bag ③" url="M3_12" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="59" type="move">
+    <moveTaget name="robotcar/shangban-bufen/dianchiluosi" BeginX="0.003859252" BeginY="1.57" BeginZ="-2.081053" X="0.003859252" Y="-0.2391119" Z="-2.081053" tween="True" />
+    <Part name="M3*12 Screw" num="2" bag="bag ③" url="M3_12" />
+    <Cam ViewTarget="robotcar" RX="30.0364" RY="220.7014" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="60" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="341.8364" RY="312.5021" RZ="-4.49274E-07" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="61" type="show">
+    <showTaget name="robotcar/shangban-bufen/dianchiluomu" BeginX="0.005486876" BeginY="-1.44" BeginZ="-2.076822" />
+    <Part name="M3 Nut" num="2" bag="bag ③" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="341.8364" RY="312.5021" RZ="-4.49274E-07" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="62" type="move">
+    <moveTaget name="robotcar/shangban-bufen/dianchiluomu" BeginX="0.005486876" BeginY="-1.44" BeginZ="-2.076822" X="0.005486876" Y="-0.3503207" Z="-2.076822" tween="True" />
+    <Part name="M3 Nut" num="2" bag="bag ③" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="341.8364" RY="312.5021" RZ="-4.49274E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="63" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="24.43641" RY="240.9021" RZ="0" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="64" type="show">
+    <showTaget name="robotcar/shangban-bufen/duoji-gudingban/duoji" BeginX="-0.001646172" BeginY="2.09" BeginZ="0.1338937" />
+    <Part name="Ultrasonic Sensor Module Holder and SG90" num="1"  url="duoji" />
+    <Cam ViewTarget="robotcar" RX="24.43641" RY="240.9021" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="65" type="show">
+    <showTaget name="robotcar/shangban-bufen/duoji-gudingban/gudingban" BeginX="0.08592062" BeginY="0.83" BeginZ="0.1315844" />
+    <Part name="Dead Plate" num="1" url="gudingban" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0.01910171" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="66" type="move">
+    <moveTaget name="robotcar/shangban-bufen/duoji-gudingban/gudingban" BeginX="0.08592062" BeginY="0.83" BeginZ="0.1315844" X="0.08592062" Y="1.625" Z="0.1315844" tween="True" />
+    <Part name="Dead Plate" num="1" url="gudingban" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0.01910171" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="67" type="show">
+    <showTaget name="robotcar/shangban-bufen/duoji-gudingban/duojiluosi" BeginX="-0.0002049915" BeginY="0.95" BeginZ="0.1346056" />
+    <Part name="M2*10 Cross Screw" num="2" bag="bag ④" url="M2_10" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="68" type="move">
+    <moveTaget name="robotcar/shangban-bufen/duoji-gudingban/duojiluosi" BeginX="-0.0002049915" BeginY="0.95" BeginZ="0.1346056" X="-0.0002049915" Y="1.7" Z="0.1346056" tween="True" />
+    <Part name="M2*10 Cross Screw" num="2" bag="bag ④" url="M2_10" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="69" type="show">
+    <showTaget name="robotcar/shangban-bufen/duoji-gudingban/duojiluomu" BeginX="-0.000654947" BeginY="2.59" BeginZ="0.1355112" />
+    <Part name="M2 Nut" num="2" bag="bag ④" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="70" type="move">
+    <moveTaget name="robotcar/shangban-bufen/duoji-gudingban/duojiluomu" BeginX="-0.000654947" BeginY="2.59" BeginZ="0.1355112" X="-0.000654947" Y="1.735" Z="0.1355112" tween="True" />
+    <Part name="M2 Nut" num="2" bag="bag ④" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="71" type="move">
+    <moveTaget name="robotcar/shangban-bufen/duoji-gudingban" BeginX="-0.01964744" BeginY="0.19" BeginZ="2.059" X="-0.01964744" Y="-1.796" Z="2.059" tween="True" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="72" type="show">
+    <showTaget name="robotcar/shangban-bufen/gudingbanluosi" BeginX="0.379848" BeginY="1.9" BeginZ="2.218395" />
+    <Part name="M3*10  Screw" num="3" bag="bag ④" url="M3_10" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="73" type="move">
+    <moveTaget name="robotcar/shangban-bufen/gudingbanluosi" BeginX="0.379848" BeginY="1.9" BeginZ="2.218395" X="0.379848" Y="-0.2242278" Z="2.218395" tween="True" />
+    <Part name="M3*10  Screw" num="3" bag="bag ④" url="M3_10" />
+    <Cam ViewTarget="robotcar" RX="24.41228" RY="240.9547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="74" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="350.6123" RY="242.3547" RZ="0" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="75" type="show">
+    <showTaget name="robotcar/shangban-bufen/gudingbanluomu" BeginX="0.3798697" BeginY="-1.04" BeginZ="2.219464" />
+    <Part name="M3 Nut" num="3" bag="bag ④" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="350.6123" RY="242.3547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="76" type="move">
+    <moveTaget name="robotcar/shangban-bufen/gudingbanluomu" BeginX="0.3798697" BeginY="-1.04" BeginZ="2.219464" X="0.3798697" Y="-0.3467014" Z="2.219464" tween="True" />
+    <Part name="M3 Nut" num="3" bag="bag ④" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="350.6123" RY="242.3547" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="77" type="line">
+    <LineTarget showLine="robotcar/shangban-bufen/duoji-gudingban/duojixian2" hidelIne="robotcar/shangban-bufen/duoji-gudingban/duoji/duojixian1" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="350.6123" RY="242.3547" RZ="0" tween="False" layer="shangban-bufen" />
+    <Tip>Pay attention to the direction of the servo wiring.</Tip>
+  </step>
+  <step index="78" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="20.21089" RY="37.55479" RZ="-4.54896E-07" tween="True" layer="shangban-bufen" />
+    <Tip>Pay attention to the direction of the servo wiring.</Tip>
+  </step>
+  <step index="79" type="line">
+    <LineTarget showLine="robotcar/shangban-bufen/duoji-gudingban/duojixian3" hidelIne="robotcar/shangban-bufen/duoji-gudingban/duojixian2" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="20.21089" RY="37.55479" RZ="-4.54896E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="80" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="17.61228" RY="129.9546" RZ="8.957617E-07" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="81" type="show">
+    <showTaget name="robotcar/shangban-bufen/chaoshengbo" BeginX="-0.01875356" BeginY="0.7882122" BeginZ="3.46" />
+    <Part name="Ultrasonic Sensor Module" num="1" url="chaoshengbo" />
+    <Cam ViewTarget="robotcar" RX="17.61228" RY="129.9546" RZ="8.957617E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="82" type="move">
+    <moveTaget name="robotcar/shangban-bufen/chaoshengbo" BeginX="-0.01875356" BeginY="0.7882122" BeginZ="3.46" X="-0.01875356" Y="0.7882122" Z="2.373251" tween="True" />
+    <Part name="Ultrasonic Sensor Module" num="1" url="chaoshengbo" />
+    <Cam ViewTarget="robotcar" RX="17.61228" RY="129.9546" RZ="8.957617E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="83" type="show">
+    <showTaget name="robotcar/shangban-bufen/chaoshengboluosi" BeginX="-0.02471277" BeginY="0.5996138" BeginZ="3.7" />
+    <Part name="M1.6*8 Cross Screw" num="2" bag="bag ④" url="M1.6_8" />
+    <Cam ViewTarget="robotcar" RX="17.61228" RY="129.9546" RZ="8.957617E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="84" type="move">
+    <moveTaget name="robotcar/shangban-bufen/chaoshengboluosi" BeginX="-0.02471277" BeginY="0.5996138" BeginZ="3.7" X="-0.01875356" Y="0.5996138" Z="2.25" tween="True" />
+    <Part name="M1.6*8 Cross Screw" num="2" bag="bag ④" url="M1.6_8" />
+    <Cam ViewTarget="robotcar" RX="17.61228" RY="129.9546" RZ="8.957617E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="85" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="23.8123" RY="62.95462" RZ="9.332155E-07" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="86" type="show">
+    <showTaget name="robotcar/shangban-bufen/chaoshengboluomu" BeginX="-0.02470568" BeginY="0.598093" BeginZ="1.11" />
+    <Part name="M1.6 Nut" num="2" bag="bag ④" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="23.8123" RY="62.95462" RZ="9.332155E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="87" type="move">
+    <moveTaget name="robotcar/shangban-bufen/chaoshengboluomu" BeginX="-0.02470568" BeginY="0.598093" BeginZ="1.11" X="-0.02470568" Y="0.598093" Z="2.166807" tween="True" />
+    <Part name="M1.6 Nut" num="2" bag="bag ④" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="23.8123" RY="62.95462" RZ="9.332155E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="88" type="show">
+    <showTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouzhijia" BeginX="-0.02064614" BeginY="-0.05992842" BeginZ="-1.52" />
+    <Part name="Camera Bracket" num="1" url="shexiangtouzhijia" />
+    <Cam ViewTarget="robotcar" RX="23.8123" RY="62.95462" RZ="9.332155E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="89" type="show">
+    <showTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouhouluosi" BeginX="-0.01996754" BeginY="0.2755561" BeginZ="-2.58" />
+    <Part name="M2*4 Phillips Screw" num="2" bag="bag ⑤" url="M2_4" />
+    <Cam ViewTarget="robotcar" RX="23.8123" RY="62.95462" RZ="9.332155E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="90" type="move">
+    <moveTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouhouluosi" BeginX="-0.01996754" BeginY="0.2755561" BeginZ="-2.58" X="-0.01996754" Y="0.2755561" Z="-1.55" tween="True" />
+    <Part name="M2*4 Phillips Screw" num="2" bag="bag ⑤" url="M2_4" />
+    <Cam ViewTarget="robotcar" RX="23.8123" RY="62.95462" RZ="9.332155E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="91" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="0" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="92" type="show">
+    <showTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/M2*6shangtongzhu" BeginX="-0.02108418" BeginY="0.2981715" BeginZ="0.0005512238" />
+    <Part name="M2*6 Copper Pillar" num="2" bag="bag ⑤" url="M2_6tongzhu" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="93" type="move">
+    <moveTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/M2*6shangtongzhu" BeginX="-0.02108418" BeginY="0.2981715" BeginZ="0.0005512238" X="-0.02108418" Y="0.2981715" Z="-1.445" tween="True" />
+    <Part name="M2*6 Copper Pillar" num="2" bag="bag ⑤" url="M2_6tongzhu" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="94" type="show">
+    <showTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtou" BeginX="-0.02064614" BeginY="0.1162672" BeginZ="0.1750042" />
+    <Part name="Camera Module" num="1" url="shexiangtou" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="4.572954E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="95" type="move">
+    <moveTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtou" BeginX="-0.02064614" BeginY="0.1162672" BeginZ="0.1750042" X="-0.02064614" Y="0.1162672" Z="-1.25" tween="True" />
+    <Part name="Camera Module" num="1" url="shexiangtou" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="4.572954E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="96" type="show">
+    <showTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouqianluosi" BeginX="-0.01996754" BeginY="0.3228993" BeginZ="0.08210206" />
+    <Part name="M2*4 Phillips Screw" num="2" bag="bag ⑤" url="M2_4" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="4.572954E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="97" type="move">
+    <moveTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouqianluosi" BeginX="-0.01996754" BeginY="0.3228993" BeginZ="0.08210206" X="-0.02064614" Y="0.3228993" Z="-1.34" tween="True" />
+    <Part name="M2*4 Phillips Screw" num="2" bag="bag ⑤" url="M2_4" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="4.572954E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="98" type="show">
+    <showTaget name="robotcar/shangban-bufen/M2*16" BeginX="-0.02091107" BeginY="1.041863" BeginZ="3.96" />
+    <Part name="M1.6*16 Cross Screw" num="2" bag="bag ⑤" url="M1.6_16" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="4.572954E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="99" type="move">
+    <moveTaget name="robotcar/shangban-bufen/M2*16" BeginX="-0.02091107" BeginY="1.041863" BeginZ="3.96" X="-0.02091107" Y="1.041863" Z="2.137296" tween="True" />
+    <Part name="M1.6*16 Cross Screw" num="2" bag="bag ⑤" url="M1.6_16" />
+    <Cam ViewTarget="robotcar" RX="21.01229" RY="136.5544" RZ="4.572954E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="100" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="19.41228" RY="72.75439" RZ="-9.052349E-07" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="101" type="show">
+    <showTaget name="robotcar/shangban-bufen/M2*6xiatongzhu" BeginX="-0.02404985" BeginY="1.044326" BeginZ="1.22" />
+    <Part name="M2*6 Copper Pillar" num="2" bag="bag ⑤" url="M2_6tongzhu" />
+    <Cam ViewTarget="robotcar" RX="19.41228" RY="72.75439" RZ="-9.052349E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="102" type="move">
+    <moveTaget name="robotcar/shangban-bufen/M2*6xiatongzhu" BeginX="-0.02404985" BeginY="1.044326" BeginZ="1.22" X="-0.02404985" Y="1.044326" Z="2.105101" tween="True" />
+    <Part name="M2*6 Copper Pillar" num="2" bag="bag ⑤" url="M2_6tongzhu" />
+    <Cam ViewTarget="robotcar" RX="19.41228" RY="72.75439" RZ="-9.052349E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="103" type="show">
+    <showTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouxian3" BeginX="0.02863691" BeginY="-0.906925" BeginZ="-4.07" />
+    <Part name="4P Cables" num="1" url="4Pxian" />
+    <Cam ViewTarget="robotcar" RX="19.41228" RY="72.75439" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="104" type="move">
+    <moveTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouxian3" BeginX="0.02863691" BeginY="-0.906925" BeginZ="-4.07" X="0.02863691" Y="-0.906925" Z="-1.8" tween="True" />
+    <Part name="4P Cables" num="1" url="4Pxian" />
+    <Cam ViewTarget="robotcar" RX="19.41228" RY="72.75439" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="105" type="none">
+    <Part name="" num="" url="" />
+    <Cam ViewTarget="robotcar" RX="16.61227" RY="112.7544" RZ="-8.909611E-07" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="106" type="line">
+    <LineTarget showLine="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouxian2" hidelIne="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouxian3" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="16.61227" RY="112.7544" RZ="-8.909611E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="107" type="move">
+    <moveTaget name="robotcar/shangban-bufen/shexiangtou-zhijia" BeginX="-0.0006474368" BeginY="1.797" BeginZ="1.959" X="-0.0006474368" Y="1.797" Z="3.405" tween="True" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="16.61227" RY="112.7544" RZ="-8.909611E-07" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="108" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="14.21227" RY="69.15436" RZ="0" tween="True" layer="shangban-bufen" />
+  </step>
+  <step index="109" type="show">
+    <showTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouluomu" BeginX="-0.02187126" BeginY="-0.7556136" BeginZ="-2.55" />
+    <Part name="M1.6 Nut" num="2" bag="bag ⑤" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="14.21227" RY="69.15436" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="110" type="move">
+    <moveTaget name="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouluomu" BeginX="-0.02187126" BeginY="-0.7556136" BeginZ="-2.55" X="-0.02187126" Y="-0.7556136" Z="-1.45" tween="True" />
+    <Part name="M1.6 Nut" num="2" bag="bag ⑤" url="M3luomu" />
+    <Cam ViewTarget="robotcar" RX="14.21227" RY="69.15436" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="111" type="line">
+    <LineTarget showLine="robotcar/shangban-bufen/shexiangtouxian1" hidelIne="robotcar/shangban-bufen/shexiangtou-zhijia/shexiangtouxian2" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="14.21227" RY="69.15436" RZ="0" tween="False" layer="shangban-bufen" />
+  </step>
+  <step index="112" type="move">
+    <moveTaget name="robotcar/xiaban-bufen" BeginX="0.01316955" BeginY="-1.2" BeginZ="-0.01203779" X="0.01316955" Y="-1.2" Z="-0.01203779" tween="False" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="14.21227" RY="69.15436" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="113" type="move">
+    <moveTaget name="robotcar/xiaban-bufen" BeginX="0.01316955" BeginY="-1.2" BeginZ="-0.01203779" X="0.01316955" Y="-0.8190181" Z="-0.01203779" tween="True" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="14.21227" RY="69.15436" RZ="4.403651E-07" tween="False" layer="" />
+  </step>
+  <step index="114" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="0.8122787" RY="205.3548" RZ="-1.334155E-08" tween="True" layer="" />
+  </step>
+  <step index="115" type="line">
+    <LineTarget showLine="robotcar/dianjixian-1/dianjixianM1-1" hidelIne="robotcar/xiaban-bufen/dianji4/dianji3/dianjixianM1-3" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="0.8122787" RY="205.3548" RZ="-1.334155E-08" tween="False" layer="" />
+  </step>
+  <step index="116" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="26.01233" RY="233.9549" RZ="9.500099E-07" tween="True" layer="" />
+  </step>
+  <step index="117" type="line">
+    <LineTarget showLine="robotcar/zong-xian/dianjixian-2/dianjixianM1-2" hidelIne="robotcar/dianjixian-1/dianjixianM1-1" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="26.01233" RY="233.9549" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="118" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="4.012339" RY="339.1554" RZ="5.349196E-08" tween="True" layer="" />
+  </step>
+  <step index="119" type="line">
+    <LineTarget showLine="robotcar/dianjixian-1/dianjixianM3-1" hidelIne="robotcar/xiaban-bufen/dianji4/dianji3/dianjixianM3-3" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="4.012339" RY="339.1554" RZ="5.349196E-08" tween="False" layer="" />
+  </step>
+  <step index="120" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="24.61233" RY="256.9548" RZ="-9.390935E-07" tween="True" layer="" />
+  </step>
+  <step index="121" type="line">
+    <LineTarget showLine="robotcar/zong-xian/dianjixian-2/dianjixianM3-2" hidelIne="robotcar/dianjixian-1/dianjixianM3-1" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="24.61233" RY="256.9548" RZ="-9.390935E-07" tween="False" layer="" />
+  </step>
+  <step index="122" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="0.8123308" RY="185.3549" RZ="3.335388E-09" tween="True" layer="" />
+  </step>
+  <step index="123" type="line">
+    <LineTarget showLine="robotcar/dianjixian-1/dianjixianM2-1" hidelIne="robotcar/xiaban-bufen/dianji4/dianji3/dianjixianM2-3" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="0.8123308" RY="185.3549" RZ="3.335388E-09" tween="False" layer="" />
+  </step>
+  <step index="124" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="21.41234" RY="238.1545" RZ="-9.170724E-07" tween="True" layer="" />
+  </step>
+  <step index="125" type="line">
+    <LineTarget showLine="robotcar/zong-xian/dianjixian-2/dianjixianM2-2" hidelIne="robotcar/dianjixian-1/dianjixianM2-1" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="21.40156" RY="238.1229" RZ="359.9943" tween="False" layer="" />
+  </step>
+  <step index="126" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="2.001546" RY="22.32245" RZ="2.669671E-08" tween="True" layer="" />
+  </step>
+  <step index="127" type="line">
+    <LineTarget showLine="robotcar/dianjixian-1/dianjixianM4-1" hidelIne="robotcar/xiaban-bufen/dianji4/dianji3/dianjixianM4-3" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="2.001546" RY="22.32245" RZ="2.669671E-08" tween="False" layer="" />
+  </step>
+  <step index="128" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="23.00154" RY="250.3228" RZ="-9.275163E-07" tween="True" layer="" />
+  </step>
+  <step index="129" type="line">
+    <LineTarget showLine="robotcar/zong-xian/dianjixian-2/dianjixianM4-2" hidelIne="robotcar/dianjixian-1/dianjixianM4-1" />
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="23.00154" RY="250.3228" RZ="-9.275163E-07" tween="False" layer="" />
+  </step>
+  <step index="130" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="-135.402" RY="-88.87701" RZ="0" tween="True" layer="" />
+  </step>
+  <step index="131" type="show">
+    <showTaget name="robotcar/xunjixian1" BeginX="0.02696848" BeginY="-1.665267" BeginZ="-0.98" />
+    <Part name="5P Cables" num="1" url="5Pxian" />
+    <Cam ViewTarget="robotcar" RX="-135.402" RY="-88.87701" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="132" type="move">
+    <moveTaget name="robotcar/xunjixian1" BeginX="0.02696848" BeginY="-1.665267" BeginZ="-0.98" X="0.02696848" Y="-1.665267" Z="0.4148373" tween="True" />
+    <Part name="5P Cables" num="1" url="5Pxian" />
+    <Cam ViewTarget="robotcar" RX="-135.402" RY="-88.87701" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="133" type="none">
+    <Part name="5P Cables" num="1"  url="5Pxian" />
+    <Cam ViewTarget="robotcar" RX="352.598" RY="253.5227" RZ="-2.15237E-07" tween="True" layer="" />
+  </step>
+  <step index="134" type="line">
+    <LineTarget showLine="robotcar/xunjixian2" hidelIne="robotcar/xunjixian1" />
+    <Part name="5P Cables" num="1"  url="5Pxian" />
+    <Cam ViewTarget="robotcar" RX="352.598" RY="253.5227" RZ="-2.15237E-07" tween="False" layer="" />
+  </step>
+  <step index="135" type="none">
+    <Part name="5P Cables" num="1" url="5Pxian" />
+    <Cam ViewTarget="robotcar" RX="26.79793" RY="59.32325" RZ="0" tween="True" layer="" />
+  </step>
+  <step index="136" type="line">
+    <LineTarget showLine="robotcar/zong-xian/xunjixian3" hidelIne="robotcar/xunjixian2" />
+    <Part name="5P Cables" num="1" url="5Pxian" />
+    <Cam ViewTarget="robotcar" RX="26.79793" RY="59.32325" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="137" type="show">
+    <showTaget name="robotcar/chaoshengboxian2" BeginX="0.112919" BeginY="0.8395519" BeginZ="-2.17" />
+    <Part name="4P Cables" num="1" url="4Pxian" />
+    <Cam ViewTarget="robotcar" RX="26.79793" RY="59.32325" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="138" type="move">
+    <moveTaget name="robotcar/chaoshengboxian2" BeginX="0.112919" BeginY="0.8395519" BeginZ="-2.17" X="0.112919" Y="0.8395519" Z="1.28743" tween="True" />
+    <Part name="4P Cables" num="1" url="4Pxian" />
+    <Cam ViewTarget="robotcar" RX="26.79793" RY="59.32325" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="139" type="line">
+    <LineTarget showLine="robotcar/zong-xian/chaoshengboxian3" hidelIne="robotcar/chaoshengboxian2" />
+    <Part name="4P Cables" num="1" url="4Pxian" />
+    <Cam ViewTarget="robotcar" RX="26.79793" RY="59.32325" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="140" type="show">
+    <showTaget name="robotcar/shangban-bufen/luosizuoshang" BeginX="-1.35207" BeginY="1.58" BeginZ="-0.01883415" />
+    <Part name="M3*10  Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar" RX="26.79793" RY="59.32325" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="141" type="move">
+    <moveTaget name="robotcar/shangban-bufen/luosizuoshang" BeginX="-1.35207" BeginY="1.58" BeginZ="-0.01883415" X="-1.35207" Y="-0.2953669" Z="-0.01883415" tween="True" />
+    <Part name="M3*10  Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar" RX="26.79793" RY="59.32325" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="142" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="8.597907" RY="208.9226" RZ="-2.158694E-07" tween="True" layer="" />
+  </step>
+  <step index="143" type="show">
+    <showTaget name="robotcar/shangban-bufen/luosiyoushang" BeginX="1.391577" BeginY="1.16" BeginZ="-0.01974883" />
+    <Part name="M3*10  Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar" RX="8.597907" RY="208.9226" RZ="-2.158694E-07" tween="False" layer="" />
+  </step>
+  <step index="144" type="move">
+    <moveTaget name="robotcar/shangban-bufen/luosiyoushang" BeginX="1.391577" BeginY="1.16" BeginZ="-0.01974883" X="1.391577" Y="-0.2940311" Z="-0.01974883" tween="True" />
+    <Part name="M3*10  Screw" num="3" bag="bag ⑥" url="M3_10" />
+    <Cam ViewTarget="robotcar" RX="8.597907" RY="208.9226" RZ="-2.158694E-07" tween="False" layer="" />
+  </step>
+  <step index="145" type="show">
+    <showTaget name="robotcar/xiaban-bufen/luntai-luosi/youlun" BeginX="2.93" BeginY="-0.2770126" BeginZ="-0.08052951" />
+    <Part name="Tire" num="2" url="luntai" />
+    <Cam ViewTarget="robotcar" RX="8.597907" RY="208.9226" RZ="-2.158694E-07" tween="False" layer="" />
+  </step>
+  <step index="146" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/luntai-luosi/youlun" BeginX="2.93" BeginY="-0.2770126" BeginZ="-0.08052951" X="1.517384" Y="-0.2770126" Z="-0.08052951" tween="True" />
+    <Part name="Tire" num="2" url="luntai" />
+    <Cam ViewTarget="robotcar" RX="8.597907" RY="208.9226" RZ="-2.158694E-07" tween="False" layer="" />
+  </step>
+  <step index="147" type="show">
+    <showTaget name="robotcar/xiaban-bufen/luntai-luosi/youlunluosi" BeginX="3.2" BeginY="-0.2791934" BeginZ="-0.07992165" />
+    <Part name="M2*25 Self-tapping Screw" num="2" bag="bag ③" url="M2_25"/>
+    <Cam ViewTarget="robotcar" RX="8.597907" RY="208.9226" RZ="-2.158694E-07" tween="False" layer="" />
+  </step>
+  <step index="148" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/luntai-luosi/youlunluosi" BeginX="3.2" BeginY="-0.2791934" BeginZ="-0.07992165" X="1.488921" Y="-0.2791934" Z="-0.07992165" tween="True" />
+    <Part name="M2*25 Self-tapping Screw" num="2" bag="bag ③" url="M2_25"/>
+    <Cam ViewTarget="robotcar" RX="8.597907" RY="208.9226" RZ="-2.158694E-07" tween="False" layer="" />
+  </step>
+  <step index="149" type="none">
+    <Part name="" num="" />
+    <Cam ViewTarget="robotcar" RX="8.397907" RY="152.1227" RZ="0" tween="True" layer="" />
+  </step>
+  <step index="150" type="show">
+    <showTaget name="robotcar/xiaban-bufen/luntai-luosi/zuolun" BeginX="-3.14" BeginY="-0.2770126" BeginZ="-0.09057705" />
+    <Part name="Tire" num="2" url="luntai"/>
+    <Cam ViewTarget="robotcar" RX="8.397907" RY="152.1227" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="151" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/luntai-luosi/zuolun" BeginX="-3.14" BeginY="-0.2770126" BeginZ="-0.09057705" X="-1.662983" Y="-0.2770126" Z="-0.09057705" tween="True" />
+    <Part name="Tire" num="2" url="luntai"/>
+    <Cam ViewTarget="robotcar" RX="8.397907" RY="152.1227" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="152" type="show">
+    <showTaget name="robotcar/xiaban-bufen/luntai-luosi/zuolunluosi" BeginX="-3.38" BeginY="-0.2791933" BeginZ="-0.08996914" />
+    <Part name="M2*25 Self-tapping Screw" num="2" bag="bag ③" url="M2_25" />
+    <Cam ViewTarget="robotcar" RX="8.397907" RY="152.1227" RZ="0" tween="False" layer="" />
+  </step>
+  <step index="153" type="move">
+    <moveTaget name="robotcar/xiaban-bufen/luntai-luosi/zuolunluosi" BeginX="-3.38" BeginY="-0.2791933" BeginZ="-0.08996914" X="-1.649506" Y="-0.2791933" Z="-0.08996914" tween="True" />
+    <Part name="M2*25 Self-tapping Screw" num="2" bag="bag ③" url="M2_25" />
+    <Cam ViewTarget="robotcar" RX="8.397907" RY="152.1227" RZ="0" tween="False" layer="" />
+  </step>
+</Steps>
