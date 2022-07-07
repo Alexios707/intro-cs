@@ -19,9 +19,9 @@ int x;
 int y; 
 int vertical;
 int wallx[] = new int[2];
-int wally[] =new int[2];
+int wally[] = new int[2];
 void setup() {
-  backpic =loadImage("https://img.freepik.com/free-vector/landscape-cartoon-scene-with-green-hills-white-cloud-summer-blue-sky-background_120819-971.jpg?w=2000");
+  backpic =loadImage("https://raw.githubusercontent.com/Alexios707/intro-cs/master/ProcessingProjects/landscape-cartoon-scene-with-green-hills-white-cloud-summer-blue-sky-background_120819-971.png");
   birdpic =loadImage("https://raw.githubusercontent.com/Alexios707/intro-cs/master/ProcessingProjects/bird.png");
   wallpic =loadImage("https://raw.githubusercontent.com/Gaspared/FlappyBird/main/img/wall.png");
   welcomescreen=loadImage("https://raw.githubusercontent.com/Alexios707/intro-cs/master/ProcessingProjects/StartScreen.png");
